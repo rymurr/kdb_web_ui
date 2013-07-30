@@ -1,0 +1,22 @@
+{
+  "name": "angular-ui-codemirror",
+  "version": "0.0.4",
+  "description": "This directive allows you to add CodeMirror to your textarea elements.",
+  "author": "https://github.com/angular-ui/ui-codemirror/contributors",
+  "license": "MIT",
+  "homepage": "http://angular-ui.github.com",
+  "main": "./ui-codemirror.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-karma": "~0.4.x",
+    "grunt-contrib-jshint": "~0.5.4",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-copy": "~0.4.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-ui/ui-codemirror.git"
+  }
+}
